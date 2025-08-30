@@ -71,9 +71,9 @@ body {
 .bottom #btn {
     width: 27rem;
     height: 4rem;
-    color: #fff;
+    color: #ffe;
     background-color: #262322;
-    border-radius: 0.7rem;
+    border-radius: 0.8rem;
     font-weight: 700;
     font-size: 1.1rem;
     border: 0;
@@ -98,4 +98,5 @@ body {
         height: 45vh;
     }
 }
+
 
